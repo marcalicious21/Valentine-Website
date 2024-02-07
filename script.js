@@ -5,7 +5,7 @@ let noButton = document.getElementById("noButton")
 let wrapper = document.querySelector("#buttons")
 
 yesButton.addEventListener("click", function() {
-    messageEl.textContent = "I LOVE YOU TOO POOKIE! 😘"
+    messageEl.textContent = "YAY!! I LOVE YOU TOO POOKIE! 😘"
     bearGif.src = "https://media.tenor.com/gUiu1zyxfzYAAAAi/bear-kiss-bear-kisses.gif"
 });
 
